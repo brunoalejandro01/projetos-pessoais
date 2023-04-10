@@ -1,5 +1,6 @@
 :root{
-    --cor0: #f6c669;
+    --cor0: #0a36af;
+    --cor1: #894DEF;
 }
 
 *{
@@ -13,6 +14,7 @@ body{
 
 .perfil{
     display: flex;
-    margin: 0 auto;
     justify-content: center;
+    padding-top: 10px;
+    box-shadow: var(--cor1);
 }
