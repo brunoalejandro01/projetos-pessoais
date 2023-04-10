@@ -16,5 +16,16 @@ body{
     display: flex;
     justify-content: center;
     padding-top: 10px;
-    box-shadow: var(--cor1);
+}
+
+.lista{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    margin: 5% auto;
+    border: solid 2px #894DEF;
+    width: 55px;
 }
